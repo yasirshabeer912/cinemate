@@ -1,0 +1,17 @@
+90f5dfcd587ad78e9a7e30e2506c5e8a
+
+single:
+https://api.themoviedb.org/3/movie{movie_id}?api_key=90f5dfcd587ad78e9a7e30e2506c5e8a
+
+Popular:
+https://api.themoviedb.org/3/movie/popular?api_key=90f5dfcd587ad78e9a7e30e2506c5e8a
+
+Upcoming:
+https://api.themoviedb.org/3/movie/upcoming?api_key=90f5dfcd587ad78e9a7e30e2506c5e8a
+
+top_rated:
+https://api.themoviedb.org/3/movie/top_rated?api_key=90f5dfcd587ad78e9a7e30e2506c5e8a
+
+
+Search:
+https://api.themoviedb.org/3/search/movie?api_key=90f5dfcd587ad78e9a7e30e2506c5e8a&query=avatar
